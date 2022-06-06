@@ -1,2 +1,2 @@
 # notas
-Notas de aula
+Este repositório contém as minhas notas de aula.
